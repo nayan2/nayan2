@@ -1,8 +1,8 @@
 ### Hi there 👋!
 
-I'm Amjad Hossain, a developer based in The Bangladesh. Writing software is one of my greatest passion! I have written software in many languages, but I'm particularly fond of C#, NodeJS and C++.
+I'm Amjad Hossain. I Prefer to go by Nayan, a developer based in Bangladesh. Writing software and solving problems is one of my greatest passion! I have written software in many languages, but I'm particularly fond of C#, NodeJS, and C++.
 
-Besides writing software, I have a passion for sharing knowledge and learning new technology. As such, I'm mentoring the C# and SQL tracks on Mentors Without Borders, posting on Stack Overflow, creating demo applications and libraries and writing blog posts.
+Besides writing software, I have a passion for sharing knowledge and learning new technology. As such, I'm mentoring the C# and SQL tracks on Mentors Without Borders, posting on Stack Overflow, creating demo applications and libraries, and writing blog posts.
 
 - 🔭 I’m currently working on [CLiCS](https://www.metlife.com.bd/about-us/foundation-ongoingprojects/)
 - 🌱 I’m currently learning Redis, Docker and WebAssembly
