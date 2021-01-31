@@ -6,7 +6,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 
 - 🔭 I’m currently working on [CLiCS](https://www.metlife.com.bd/about-us/foundation-ongoingprojects/)
 - 🌱 I’m currently learning Redis, Docker and WebAssembly
-- 👯 I’m looking to collaborate on ... Blockchain, IPFS and AI related projects
+- 👯 I’m looking to collaborate on Blockchain, IPFS and AI related projects
 - 🤔 I’m looking for help to host websites with IPFS
 - 💬 Ask me about C#, .NET, NodeJS, Angular, NestJS
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps
