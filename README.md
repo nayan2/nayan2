@@ -7,7 +7,7 @@ Besides writing software, I have a passion for sharing knowledge and learning ne
 - 🔭 I’m currently working on [CLiCS](https://www.metlife.com.bd/about-us/foundation-ongoingprojects/)
 - 🌱 I’m currently learning Redis, Docker and WebAssembly
 - 👯 I’m looking to collaborate on Blockchain, IPFS and AI related projects
-- 🤔 I’m looking for help to host websites with IPFS
+- 🤔 I’m looking for help to host websites In IPFS
 - 💬 Ask me about C#, .NET, NodeJS, Angular, NestJS
 - 😄 Pronouns: .NET Developer, Full Stack Developer, Programmer, DevOps
 - 📫 How to reach me: [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" width="22" />](https://www.linkedin.com/in/md-amjad-hossain/) [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-128.png" width="22" />](https://twitter.com/nayanch39034162) [<img src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-128.png" width="22" />](https://stackoverflow.com/users/6275238/amjad) [<img src="https://cdn1.iconfinder.com/data/icons/aami-flat-emails/64/email-15-128.png" width="22" />](mailto:nayanchowdhury92@gmail.com)
